@@ -4,8 +4,8 @@ This bot gets weekly top posts from r/ProgrammerHumor and posts it to telegram m
 Some explanation:
 
 ## Redditbot.py:
-  This class is responsible to get the top post from reddit and download it for telegram bot to use.
+  Get the top post from reddit and download it for telegram bot to use.
 
 
 ## Telegrambot.py:
-
+  Get the image redditbot downloaded and post it telegram group
